@@ -1,0 +1,436 @@
+        @media only screen and (min-width: 576px)and (max-width: 767px) {
+            .container {
+                max-width: 100%;
+            }
+            .zarin-link-img {
+                width: 500px;
+                height: 420px;
+                top: -60px;
+                left: 0;
+            }
+            .online-payment-img {
+                width: 560px;
+                height: 430px;
+                top: -80px;
+                left: 0;
+            }
+            .zarin-card-img {
+                width: 500px;
+                height: 270px;
+                top: 0px;
+                left: 40px;
+            }
+            .zarin-sharing-img {
+                width: 540px;
+                height: 420px;
+                top: -60px;
+                left: 20px;
+            }
+            .zarin-plus-img {
+                width: 500px;
+                height: 270px;
+                top: 0px;
+                left: 40px;
+            }
+            .sponsor-cases div {
+                margin-left: 7px;
+            }
+            .sponsor-cases .sponsor p span {
+                margin-right: 2px;
+            }
+        }
+        
+        @media only screen and (min-width: 769px)and (max-width: 991px) {
+            .container {
+                max-width: 760;
+            }
+            nav {
+                justify-content: center;
+                padding: 25px 70px;
+            }
+            header nav img {
+                margin-left: 30px;
+            }
+            .zarin-link-img {
+                width: 500px;
+                height: 420px;
+                top: -60px;
+                left: 0;
+            }
+            .online-payment-img {
+                width: 560px;
+                height: 430px;
+                top: -80px;
+                left: 0;
+            }
+            .zarin-card-img {
+                width: 430px;
+                height: 250px;
+                top: 0px;
+                left: 0;
+            }
+            .zarin-sharing-img {
+                width: 540px;
+                height: 350px;
+                top: -60px;
+                left: 10px;
+            }
+            .zarin-plus-img {
+                width: 500px;
+                height: 320px;
+                top: 0px;
+                left: 0;
+            }
+            .sponsor-cases div {
+                margin-left: 12px;
+            }
+            .sponsor-cases .sponsor p span {
+                margin-right: 8px;
+            }
+        }
+        
+        @media only screen and (min-width: 992px) and (max-width:1199px) {
+            .container {
+                max-width: 960px;
+            }
+            nav {
+                position: fixed;
+                top: 0;
+                box-sizing: border-box;
+                transition: .5s;
+                z-index: 1001;
+                opacity: 1;
+                background: #fff;
+                margin: auto;
+                width: 930px;
+                padding: 21px 0 25px;
+            }
+            nav {
+                justify-content: space-around;
+            }
+            .online-payment-img {
+                width: 450px;
+                height: 450px;
+                top: -80px;
+                left: 0;
+            }
+            .zarin-link-img {
+                width: 500px;
+                height: 450px;
+                top: -20px;
+                left: 17px;
+            }
+            .zarin-sharing-img {
+                width: 550px;
+                height: 450px;
+                top: -15px;
+                left: 83px;
+            }
+            .zarin-plus-img {
+                width: 555px;
+                height: 450px;
+                top: 20px;
+                left: 117px;
+            }
+        }
+        
+        @media only screen and (min-width: 992px) {
+            .zarin-card-img {
+                width: 500px;
+                height: 450px;
+                top: 0px;
+                left: 90px;
+            }
+            .sponsor-cases div {
+                margin-left: 12px;
+            }
+            .sponsor-cases .sponsor p span {
+                margin-right: 10px;
+            }
+            .moblie-menu {
+                display: none;
+            }
+            .sponsor-request {
+                margin-top: 0;
+            }
+        }
+        
+        @media only screen and (min-width: 1200px) {
+            .container {
+                max-width: 1170px;
+            }
+            nav {
+                justify-content: space-around;
+                padding: 21px 0 25px;
+                width: 1143px;
+                margin: auto;
+            }
+            .zarin-link-img {
+                width: 590px;
+                height: 500px;
+                top: -30px;
+                left: 0px;
+            }
+            .online-payment-img {
+                width: 500px;
+                height: 500px;
+                top: -80px;
+                left: 48px;
+            }
+            .zarin-card-img {
+                width: 500px;
+                height: 470px;
+                top: 0px;
+                left: 90px;
+            }
+            .zarin-sharing-img {
+                width: 590px;
+                height: 470px;
+                top: -40px;
+                left: 25px;
+            }
+            .zarin-plus-img {
+                width: 550px;
+                height: 470px;
+                top: 15px;
+                left: 112px;
+            }
+            .box-1 {
+                border-left: 1px solid #E0E4E7;
+            }
+            .box-2 {
+                border-left: 1px solid #E0E4E7;
+                border-top: 1px solid #E0E4E7;
+            }
+            .box-4 {
+                border-top: 1px solid #E0E4E7;
+            }
+        }
+        
+        @media only screen and (max-width: 1200px) {
+            .zarin-props-box {
+                margin-top: 40px;
+                height: 230px;
+            }
+        }
+        
+        @media only screen and (max-width: 991px) {
+            nav .menu>li:last-child {
+                display: none;
+            }
+            nav ul li a {
+                font-size: 14px;
+            }
+            .section {
+                margin-top: 30px;
+            }
+            .header-blue-box-content {
+                padding-left: 35px;
+                padding-right: 35px;
+            }
+            .header-blue-box-left {
+                display: none;
+            }
+            .header-blue-box-right {
+                text-align: center;
+                width: 100%;
+                margin: 0 auto;
+                padding: 0px 0 70px !important;
+            }
+            .header-blue-box-right h1 {
+                font-size: 3vw;
+            }
+            .header-blue-box-right p {
+                font-size: 2.2vw;
+                width: 100%;
+            }
+            .online-payment-img {
+                margin: 0 auto;
+            }
+            .online-payment-description {
+                padding-bottom: 12px;
+            }
+            .zarin-link-content {
+                padding-top: 60px;
+            }
+            .zarin-link-img {
+                margin: 0 auto;
+            }
+            .zarin-link-description {
+                padding-bottom: 90px;
+            }
+            .zarin-card-img {
+                margin: 0 auto;
+            }
+            .zarin-card-description {
+                padding-bottom: 12px;
+            }
+            .zarin-sharing-description {
+                padding-bottom: 90px;
+            }
+            .zarin-sharing-content {
+                padding-top: 60px;
+            }
+            .zarin-sharing-img {
+                margin: 0 auto;
+            }
+            .zarin-plus-img {
+                margin: 0 auto;
+            }
+            .zarin-plus-description {
+                padding-bottom: 12px;
+            }
+            .zarin-props-box {
+                margin-top: 40px;
+            }
+            .zarinpal-sponsor-content {
+                background-color: rgb(255, 255, 255);
+            }
+            .sponsor-request {
+                margin-right: 10px;
+            }
+        }
+        
+        @media only screen and (max-width: 768px) {
+            nav .menu {
+                display: none;
+            }
+            nav .fa-bars {
+                opacity: 1;
+                visibility: visible;
+            }
+            .header-blue-box-right h1 {
+                font-size: 3.5vw;
+            }
+            .header-blue-box-right p {
+                font-size: 2.8vw;
+                width: 100%;
+            }
+            .online-payment-content {
+                width: auto;
+            }
+            .zarin-link-content {
+                width: auto;
+            }
+            .online-payment-description {
+                margin: 0 auto;
+                text-align: center;
+                width: 90%;
+                padding-bottom: 12px;
+            }
+            .zarin-link-description {
+                margin: 0 auto;
+                text-align: center;
+                width: 90%;
+            }
+            .zarin-card-content,
+            .zarin-plus-content {
+                width: auto;
+            }
+            .zarin-card-description,
+            .zarin-plus-description {
+                margin: 0 auto;
+                text-align: center;
+                width: 90%;
+                padding-bottom: 12px;
+            }
+            .zarin-sharing-content {
+                width: auto;
+            }
+            .zarin-sharing-description {
+                margin: 0 auto;
+                text-align: center;
+                width: 90%;
+            }
+            .zarin-sharing-right-box,
+            .zarin-plus-right-box {
+                display: none;
+            }
+            .zarin-props-box {
+                height: 260px;
+                margin-bottom: 35px;
+            }
+            .zarin-props-title {
+                text-align: center;
+            }
+            .sponsor-cases p {
+                font-size: 12px;
+                font-weight: 600;
+            }
+            .box-title h2 {
+                font-size: 20px;
+            }
+        }
+        
+        @media only screen and (max-width: 575px) {
+            .online-payment-right-box,
+            .zarin-link-right-box,
+            .zarin-card-right-box {
+                display: none;
+            }
+            .header-blue-box-right h1 {
+                font-size: 4.5vw;
+            }
+            .header-blue-box-right p {
+                font-size: 3.8vw;
+                width: 100%;
+            }
+            .zarin-props-box {
+                height: 200px;
+            }
+            .zarinpal-family-content h1 {
+                font-size: 21px;
+            }
+            .zarinpal-family-content h2 {
+                font-size: 17px;
+            }
+            .box-title {
+                margin-bottom: 15px;
+            }
+            .box-title p {
+                font-size: 16px;
+            }
+            .social-media {
+                text-align: center;
+            }
+            .social-media ul {
+                justify-content: center;
+            }
+            .social-media ul li {
+                margin-left: 5px;
+            }
+        }
+        
+        @media only screen and (max-width: 591px) {
+            .sponsor-cases {
+                display: block;
+            }
+            .sponsor {
+                margin-bottom: 10px;
+            }
+            .sponsor-cases .sponsor p span.border {
+                display: none;
+            }
+        }
+        
+        @media only screen and (max-width: 486px) {
+            .online-payment-description,
+            .zarin-link-description,
+            .zarin-card-description,
+            .zarin-sharing-description,
+            .zarin-plus-description {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            .section-yellow-btn {
+                margin-bottom: 10px;
+            }
+            .header-blue-box-right h1 {
+                font-size: 4.8vw;
+            }
+            .header-blue-box-right p {
+                font-size: 4.1vw;
+                width: 100%;
+            }
+        }
